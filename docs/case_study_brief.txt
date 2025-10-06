@@ -1,0 +1,1 @@
+Case Study Brief: Build an automated evaluator that scores CV and project report using RAG and LLM chaining. Requirements: POST /upload, POST /evaluate, GET /result/:id, scoring rubric.

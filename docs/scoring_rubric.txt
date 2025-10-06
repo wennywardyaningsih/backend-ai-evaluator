@@ -1,0 +1,3 @@
+Scoring Rubric:
+CV Match Rate weights: Technical Skills 40%, Experience 25%, Achievements 20%, Cultural Fit 15%.
+Project: Correctness 30%, Code Quality 25%, Resilience 20%, Documentation 15%, Creativity 10%.
